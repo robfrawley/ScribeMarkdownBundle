@@ -1,5 +1,5 @@
 {
-    "name": "kwattro/markdown-bundle",
+    "name": "scribe/markdown-bundle",
     "description": "A Bundle that integrates the Sundown parser",
     "keywords": ["sundown", "markdown"],
     "type": "symfony-bundle",
